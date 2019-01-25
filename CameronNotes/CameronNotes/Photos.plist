@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Caption</key>
+		<string>Photography Class</string>
+		<key>Comment</key>
+		<string>Template Class 1</string>
+		<key>Photo</key>
+		<string>Photo-Class</string>
+	</dict>
+	<dict>
+		<key>Caption</key>
+		<string>English Class</string>
+		<key>Comment</key>
+		<string>Template Class 2</string>
+		<key>Photo</key>
+		<string>English-Class</string>
+	</dict>
+	<dict>
+		<key>Caption</key>
+		<string>Chemistry Class</string>
+		<key>Comment</key>
+		<string>Template Class 3</string>
+		<key>Photo</key>
+		<string>Chemsitry-Class</string>
+	</dict>
+	<dict>
+		<key>Caption</key>
+		<string>Math Class</string>
+		<key>Comment</key>
+		<string>Template Class 4</string>
+		<key>Photo</key>
+		<string>Math-Class</string>
+	</dict>
+</array>
+</plist>
